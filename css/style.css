@@ -262,3 +262,12 @@ main {
   background: #d1dcff;
   padding: 4vh;
 }
+
+.company-container {
+  width: 100%;
+  height: 20vh;
+  margin-bottom: 4vh;
+  text-align: left;
+  font-size: 100px;
+  background-color: chartreuse;
+}
