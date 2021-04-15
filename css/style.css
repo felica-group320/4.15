@@ -272,7 +272,7 @@ main .company-container {
   background-color: chartreuse;
 }
 
-.works-container {
+main .works-container {
   width: 100%;
   height: 20vh;
   margin-bottom: 4vh;
