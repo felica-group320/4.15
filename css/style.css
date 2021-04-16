@@ -281,6 +281,15 @@ main .works-container {
   background: #ffb8b8;
 }
 
+
+main .contact-container {
+  width: 100%;
+  height: 20vh;
+  margin-bottom: 4vh;
+  text-align: right;
+  font-size: 80px;
+  background: #ffc8ee;
+}
 main .about-us-container {
   width: 100%;
   height: 20vh;
